@@ -1,0 +1,99 @@
+header{
+  width: 70%;
+  
+}
+.encabezado1{
+  
+  background-color: rgba(0, 0, 0, 0);
+  color: #AD7FCE;
+  font-size: 20px;
+  font-weight: bolder;
+  float:right;
+  border: none;
+  margin-top: 30px;
+  margin-right: -300px;
+}
+
+#talleres{
+  margin-right: -140px;}
+
+#acerca{
+  margin-right: 10px;}
+
+#inicio{
+  margin-right: 70px;}
+  
+#contacto:hover{
+  color: #FFC107;
+}
+  
+#talleres:hover{
+  color: #FFC107;
+}
+
+#acerca:hover{
+  color: #FFC107;
+}
+
+#inicio:hover{
+  color: #FFC107;
+}
+.logo{
+  width: 20%;
+  height: 20%;
+  margin-top: -30px;
+}
+body{
+  background-color: #fff4dcec;
+  background-size: 100%;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 15px;
+   }
+.apar{
+    width: 550px;
+    height: 220px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    background-color: #c8f2fdec;
+    border-radius: 5px;
+    border: 2px solid #AD7FCE;
+    padding-top: 10px;
+    padding-bottom: -10px;
+    text-align: center;
+
+}
+.ent{
+  width: 310px;
+  height: 30px;
+  background-color: #F1F2F2;
+  border: 2.5px solid #AD7FCE;
+  font-size: 25px;
+}
+.val{
+  width:120px;
+  height: 40px;
+  background-color: #ECC3E3;
+  border: 3px solid #AD7FCE;
+  font-family: 'Source Sans Pro', sans-serif;
+  border-radius: 5px;
+}
+.val:hover{
+    width:120px;
+    height: 40px;
+    background-color: #c57fcea9;
+    border: 3px solid #AD7FCE;
+    font-family: 'Source Sans Pro', sans-serif;
+
+ }
+ .contesta{
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: bolder;
+  font-size: 18px;
+
+ }
+
+ footer{
+  background-color: #AD7FCE;
+ }
+ 
