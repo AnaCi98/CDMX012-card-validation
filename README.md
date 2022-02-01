@@ -23,6 +23,7 @@ La imagen final de la página sería la siguiente:
 3. Foto del prototipo en papel:
 
 4. Feedback:
+La cajita dónde se pedía el dato de la tarjeta debía ir más centrado. Ponerle color al borde de la cajita dónde venían esos datos. Ponerle un color diferente a la letra, especificando si la tarjeta es válida (verde) o inválida (rojo).
 
 5. Imagen el prototipo final:
-sdmskldmslkmasl
+![Prototipo final](https://github.com/AnaCi98/CDMX012-card-validation/blob/main/Prototipo%20final.png?raw=true)

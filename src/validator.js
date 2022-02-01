@@ -37,7 +37,7 @@ function maskify(arreglo){
   let oculto = [];
   for (let i=0; i < arreglo.length; i++){
     if(i<arreglo.length-4){
-      oculto.push("*");
+      oculto.push("#");
     }
     else{
       oculto.push(arreglo[i]);
