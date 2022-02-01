@@ -19,11 +19,16 @@ La imagen final de la página sería la siguiente:
 ## 3. Investigación UX
 
 1. Los usuarios son niñas y adolescentes que se interesan por áreas STEM y que quieran conocer más sobre ello
-2. El producto son talleres que las
+2. El producto son talleres sobre ciencia y tecnología que las niñas pueden tomar para introducirse a áreas STEM e incluso complementar su educación básica
 3. Foto del prototipo en papel:
 
+![Prototipo en papel](https://github.com/AnaCi98/CDMX012-card-validation/blob/main/Boceto%20en%20papel.jpeg)
+
 4. Feedback:
-La cajita dónde se pedía el dato de la tarjeta debía ir más centrado. Ponerle color al borde de la cajita dónde venían esos datos. Ponerle un color diferente a la letra, especificando si la tarjeta es válida (verde) o inválida (rojo).
+
+-Centrar el div
+-Ponerle color al borde al div del mismo color del botón
+-Ponerle un color diferente a la letra, especificando si la tarjeta es válida (verde) o inválida (rojo)
 
 5. Imagen el prototipo final:
-![Prototipo final](https://github.com/AnaCi98/CDMX012-card-validation/blob/main/Prototipo%20final.png?raw=true)
+![Prototipo final](https://github.com/AnaCi98/CDMX012-card-validation/blob/main/Prototipo%20final.png)
